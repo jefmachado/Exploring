@@ -1,0 +1,33 @@
+header{
+    background-color: #1403b4;
+}
+body {
+    background-color: #000102;
+    
+}
+footer{
+    background-color: rgb(253, 0, 219);
+    
+}
+div {
+    
+}
+h1 {
+    color: rgb(255, 255, 255);
+    /*font-weight: bold; (Texto em negrito)*/
+}
+strong {
+    color: #22D4FD;
+}
+p {
+    color: rgb(255, 255, 255);
+}
+a{
+    background-color: chocolate;
+    color: chartreuse;
+}
+span{
+    color: #22D4FD;/*(Cor do texto azul)*/
+    border: 1px solid #22D4FD;/*(Borda com 1 px de largura, do tipo sólida e cor da borda azul)*/
+    padding: 10px;/*(Espaçamento interno entre a borda e o texto de 10px)*/
+}
